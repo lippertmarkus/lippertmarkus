@@ -1,4 +1,4 @@
-<a href="#"><img height="300" width="1000" src="https://github.com/lippertmarkus/lippertmarkus/raw/master/header.png" alt="Hi, I'm Markus" title="Hi, I'm Markus" /></a>
+<a href="#"><img height="300px" width="1000px" src="https://github.com/lippertmarkus/lippertmarkus/raw/master/header.png" alt="Hi, I'm Markus" title="Hi, I'm Markus" /></a>
 
 ## 👨‍💻 About
 
