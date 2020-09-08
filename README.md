@@ -1,8 +1,6 @@
 <a href="#"><img height="300px" width="1000px" src="https://github.com/lippertmarkus/lippertmarkus/raw/master/header.png" alt="Hi, I'm Markus" title="Hi, I'm Markus" /></a>
 
-## 👨‍💻 About
-
-I'm a **software developer** working at Axians Infoma in Germany as well as a **Master's student** in computer science. I'm interested in **DevOps**, **Containers**, **Orchestration**, **Cloud-native**, **IaC** and **Azure** and enjoy sharing my knowledge at [lippertmarkus.com](https://lippertmarkus.com).
+I'm a **👨‍💻 software developer** working at Axians Infoma in Germany as well as a **👨‍🎓 Master's student** in computer science. I'm interested in **DevOps**, **Containers**, **Orchestration**, **Cloud-native**, **IaC** and **Azure** and enjoy sharing my knowledge at [lippertmarkus.com](https://lippertmarkus.com).
 
 ## 📫 Reach me
 
