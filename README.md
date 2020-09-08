@@ -1,4 +1,4 @@
-<a href="#"><img height="300px" width="1000px" src="https://github.com/lippertmarkus/lippertmarkus/raw/master/header.png" alt="Hi, I'm Markus" title="Hi, I'm Markus" /></a>
+<a href="#"><img src="https://github.com/lippertmarkus/lippertmarkus/raw/master/header.png" alt="Hi, I'm Markus" title="Hi, I'm Markus" /></a>
 
 I'm a **👨‍💻 software developer** working at Axians Infoma in Germany as well as a **👨‍🎓 Master's student** in computer science. I'm interested in **DevOps**, **Containers**, **Orchestration**, **Cloud-native**, **IaC** and **Azure** and enjoy sharing my knowledge at [lippertmarkus.com](https://lippertmarkus.com).
 
@@ -61,7 +61,7 @@ I'm a **👨‍💻 software developer** working at Axians Infoma in Germany as 
 <a href="#"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/chocolatey.svg" alt="Chocolatey" title="Chocolatey" /></a>
 
 
-## 📕 Blog posts
+## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Easily create Kubernetes Clusters with Windows Support via Rancher](https://lippertmarkus.com/2020/09/01/k8s-windows-rancher/)
 - [Host Helm Charts via GitHub with Chart Releaser](https://lippertmarkus.com/2020/08/13/chartreleaser/)
