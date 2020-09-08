@@ -1,4 +1,4 @@
-TODO HEADER
+<a href="#"><img height="300" width="1000" src="https://github.com/lippertmarkus/lippertmarkus/raw/master/header.png" alt="Hi, I'm Markus" title="Hi, I'm Markus" /></a>
 
 ## 👨‍💻 About
 
