@@ -63,9 +63,9 @@ I'm a **👨‍💻 software developer** working at Axians Infoma in Germany as 
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Easily deploy Business Central to Kubernetes with Helm](https://lippertmarkus.com/2020/10/01/deploy-bc-helm/)
 - [Networking with Calico for Windows in mixed Kubernetes clusters](https://lippertmarkus.com/2020/09/12/k8s-calico-windows/)
 - [Easily create Kubernetes Clusters with Windows Support via Rancher](https://lippertmarkus.com/2020/09/01/k8s-windows-rancher/)
 - [Host Helm Charts via GitHub with Chart Releaser](https://lippertmarkus.com/2020/08/13/chartreleaser/)
 - [Automatically renew Let's Encrypt certificates on Synology NAS using DNS-01 challenge](https://lippertmarkus.com/2020/03/14/synology-le-dns-auto-renew/)
-- [Multiroom Audio with Logitech Media Server](https://lippertmarkus.com/2020/02/08/multiroom-audio-with-logitech-media-server/)
 <!-- BLOG-POST-LIST:END -->
