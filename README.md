@@ -63,9 +63,9 @@ I'm a **👨‍💻 DevOps Engineer** from Germany working at [COSMO CONSULT](ht
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Windows HostProcess Containers in Kubernetes](https://lippertmarkus.com/2021/11/05/k8s-win22-hostprocess/)
 - [Running Windows and Linux containers without Docker Desktop](https://lippertmarkus.com/2021/09/04/containers-without-docker-desktop/)
 - [Cloud-native CI/CD with Windows container support of Argo](https://lippertmarkus.com/2020/10/15/cloud-native-ci-cd-windows-argo/)
 - [Easily deploy Business Central to Kubernetes with Helm](https://lippertmarkus.com/2020/10/01/deploy-bc-helm/)
 - [Networking with Calico for Windows in mixed Kubernetes clusters](https://lippertmarkus.com/2020/09/12/k8s-calico-windows/)
-- [Easily create Kubernetes Clusters with Windows Support via Rancher](https://lippertmarkus.com/2020/09/01/k8s-windows-rancher/)
 <!-- BLOG-POST-LIST:END -->
