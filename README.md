@@ -63,9 +63,9 @@ I'm a **👨‍💻 DevOps Engineer** from Germany working at [COSMO CONSULT](ht
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Directly running Windows containers with containerd from the command line](https://lippertmarkus.com/2022/01/22/containerd-ctr-windows/)
 - [Migrating a VS Code Extension to another Publisher](https://lippertmarkus.com/2021/12/09/vscode-publisher-migration/)
 - [Building Windows multi-arch container images on Linux](https://lippertmarkus.com/2021/11/30/win-multiarch-img-lin/)
 - [Getting started with Windows HostProcess Containers in Kubernetes](https://lippertmarkus.com/2021/11/05/k8s-win22-hostprocess/)
 - [Running Windows and Linux containers without Docker Desktop](https://lippertmarkus.com/2021/09/04/containers-without-docker-desktop/)
-- [Cloud-native CI/CD with Windows container support of Argo](https://lippertmarkus.com/2020/10/15/cloud-native-ci-cd-windows-argo/)
 <!-- BLOG-POST-LIST:END -->
