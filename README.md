@@ -63,9 +63,9 @@ I'm a **👨‍💻 Lead DevOps Engineer** from Germany working at [COSMO CONSUL
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy your .NET apps faster with konet](https://lippertmarkus.com/2022/05/21/dotnet-konet/)
 - [Building Windows images with Docker running in a HostProcess container on containerd on Kubernetes](https://lippertmarkus.com/2022/04/22/win-img-docker-hostprocess-k8s/)
 - [Speed up your Windows container image builds with crane](https://lippertmarkus.com/2022/03/30/speed-image-builds-crane/)
 - [Kubernetes-native CI/CD with Windows container support of Tekton](https://lippertmarkus.com/2022/02/26/k8s-native-ci-cd-windows-tekton/)
 - [Directly running Windows containers with containerd from the command line](https://lippertmarkus.com/2022/01/22/containerd-ctr-windows/)
-- [Migrating a VS Code Extension to another Publisher](https://lippertmarkus.com/2021/12/09/vscode-publisher-migration/)
 <!-- BLOG-POST-LIST:END -->
