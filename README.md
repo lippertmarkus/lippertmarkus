@@ -63,9 +63,9 @@ I'm a **👨‍💻 Lead DevOps Engineer** from Germany working at [COSMO CONSUL
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Autoscale containerized Azure DevOps Pipeline Agents with KEDA](https://lippertmarkus.com/2023/02/26/keda-azure-pipelines-agent/)
 - [Getting started with built-in container support in .NET 7](https://lippertmarkus.com/2022/12/09/dotnet-7-container-support/)
 - [Extending Dapr&#39;s publish &amp; subscribe to client-side apps](https://lippertmarkus.com/2022/08/19/dapr-pubsub-client-apps/)
 - [Deploy your .NET apps faster with konet](https://lippertmarkus.com/2022/05/21/dotnet-konet/)
 - [Building Windows images with Docker running in a HostProcess container on containerd on Kubernetes](https://lippertmarkus.com/2022/04/22/win-img-docker-hostprocess-k8s/)
-- [Speed up your Windows container image builds with crane](https://lippertmarkus.com/2022/03/30/speed-image-builds-crane/)
 <!-- BLOG-POST-LIST:END -->
