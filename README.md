@@ -1,6 +1,6 @@
 <a href="#"><img src="https://github.com/lippertmarkus/lippertmarkus/raw/master/header.png" alt="Hi, I'm Markus" title="Hi, I'm Markus" /></a>
 
-I'm a **👨‍💻 Lead DevOps Engineer** from Germany working at [COSMO CONSULT](https://cosmoconsult.com). I'm interested in **DevOps**, **Containers**, **Orchestration**, **Cloud-native**, **IaC** and **Azure** and enjoy sharing my knowledge at [lippertmarkus.com](https://lippertmarkus.com).
+I'm a **👨‍💻 Team Manager, Lead DevOps Engineer & Product Manager** from Germany working at [COSMO CONSULT](https://cosmoconsult.com). I'm interested in **DevOps**, **Containers**, **Orchestration**, **Cloud-native**, **IaC** and **Azure** and enjoy sharing my knowledge at [lippertmarkus.com](https://lippertmarkus.com).
 
 ## 📫 Reach me
 
